@@ -29,7 +29,7 @@ const propTypes = {
         street: PropTypes.string,
         thumbnail: PropTypes.string,
     })).isRequired,
-}
+};
 
 const UserDirectory = ({ onChange, users }) => (
     <UserDirectoryWrapper>

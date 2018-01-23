@@ -4,4 +4,4 @@ const Header = styled.h1`
     font-size: 30px;
 `;
 
-export default Header
+export default Header;
